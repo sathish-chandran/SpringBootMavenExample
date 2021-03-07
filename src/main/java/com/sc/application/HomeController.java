@@ -9,7 +9,7 @@ public class HomeController {
 
     @RequestMapping("/")
     public String index() {
-        return "Welcome to GitHub Act!";
+        return "Welcome to GitHub Actions!";
     }
 
 }
